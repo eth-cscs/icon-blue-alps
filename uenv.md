@@ -51,4 +51,4 @@ You can check that PATH has been set, and the correct versions of tools are bein
 Python 3.10.12
 ```
 
-The root path for all the software, for passing into the ICON configure script, is just `/user-environment/ewnv/default`.
+The root path for all the software, for passing into the ICON configure script, is just `/user-environment/env/default`.
